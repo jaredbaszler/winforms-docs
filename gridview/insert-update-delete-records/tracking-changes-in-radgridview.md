@@ -47,7 +47,7 @@ The event fires after one or more grid rows are changed. __GridViewCollectionCha
 
 ## CollectionChanging
 
-__CollectionChanging__ event is a generic event. It can be used for __Collumns__ and __Rows__. The events are accessible from the __Collumns__ and __Rows__ collection respectively of __RadGridView__. 
+__CollectionChanging__ event is a generic event. It can be used for __Columns__ and __Rows__. The events are accessible from the __Collumns__ and __Rows__ collection respectively of __RadGridView__. 
 
 __CollectionChanging__ is equivalent to __RowsChanging__ event.
 
