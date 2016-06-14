@@ -167,4 +167,4 @@ End Sub
 
 ## Customizing composite filter dialog
 
-When you select an item from the “Available Filter” menu, a __CompositeFilterForm__ is displayed. The __CreateCompositeFilterDialog__ event is fired ust before the __CompositeFilterForm__ is created. It allows you to create the default dialog and customize it or initialize your own implementation of the composite filter dialog.<br>![gridview-filtering-excel-like-filtering 008](images/gridview-filtering-excel-like-filtering008.png)
+When you select an item from the “Available Filter” menu, a __CompositeFilterForm__ is displayed. The __CreateCompositeFilterDialog__ event is fired just before the __CompositeFilterForm__ is created. It allows you to create the default dialog and customize it or initialize your own implementation of the composite filter dialog.<br>![gridview-filtering-excel-like-filtering 008](images/gridview-filtering-excel-like-filtering008.png)
